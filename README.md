@@ -38,7 +38,7 @@ https://pub.dev/packages/geolocator
 Esse plugin busca a localização, seja no android ou iOS.
 
 Para instalá-lo, abra seu `pubspec.yaml` e procure a linha com `cupertino_icons`.
-*Abaixo* dessa linha, inclua: `geolocator: ^9.0.2`.
+*Abaixo* dessa linha, inclua: `geolocator: ^10.1.0`.
 *ATENÇÃO: mantenha a identação da linha anterior.*
 
 Seu arquivo ficará, nessa região, assim:
@@ -48,7 +48,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  geolocator: ^9.0.2
+  geolocator: ^10.1.0
 ```
 
 Após isso, execute o Pub get.
